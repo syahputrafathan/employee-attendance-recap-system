@@ -12,14 +12,17 @@ Project ini menggunakan PHP, MySQL, dan dependency diatur dengan Composer.
 ## Installation
 1. Clone repository:
    ```bash
-   - git clone https://github.com/syahputrafathan/employee-attendance-recap-system.git
-3. Masuk ke folder project:
-   - cd employee-attendance-recap-system
+   git clone https://github.com/syahputrafathan/employee-attendance-recap-system.git
+2. Masuk ke folder project:
+   ```bash
+   cd employee-attendance-recap-system
 4. Install dependency dengan Composer:
-   - composer install
-5. Atur koneksi database di file konfigurasi (db.php)
-6. Jalankan project menggunakan Laragon / XAMPP
-   - Buka project di browser, misal: http://localhost/employee-attendance-recap-system/
+   ```bash
+   composer install
+6. Atur koneksi database di file konfigurasi (db.php)
+7. Jalankan project menggunakan Laragon / XAMPP
+   ```bash
+   Buka project di browser, misal: http://localhost/employee-attendance-recap-system/
 
 ## Usage
 - Gunakan menu untuk rekap presensi, export, dan laporan.
