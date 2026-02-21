@@ -30,6 +30,9 @@ Project ini menggunakan PHP, MySQL, dan dependency diatur dengan Composer.
 - Jangan upload file credentials.json, .env, atau file sensitive lainnya ke GitHub.
 - Pastikan PHP versi 7.4+ dan MySQL tersedia di environment kamu.
 
+## Screenshots
+<img width="1900" height="1095" alt="Screenshot 2025-12-14 211818" src="https://github.com/user-attachments/assets/b5053802-831f-4717-a634-678641652843" />
+
 ## Author
 Fathansyah Putra  
 [GitHub](https://github.com/syahputrafathan)
