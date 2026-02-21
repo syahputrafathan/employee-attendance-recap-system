@@ -1,0 +1,81 @@
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=198607082006021004, tanggal_mulai=2024-12-02, tanggal_selesai=2024-12-02
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198410262003121003, tanggal_mulai=2024-12-02, tanggal_selesai=2024-12-03
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI KARENA ALASAN PENTING, nip=199504102015022001, tanggal_mulai=2024-12-02, tanggal_selesai=2024-12-06
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199310182013101002, tanggal_mulai=2024-12-02, tanggal_selesai=2024-12-06
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199602112018012004, tanggal_mulai=2024-12-03, tanggal_selesai=2024-12-03
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=197505221995031002, tanggal_mulai=2024-12-04, tanggal_selesai=2024-12-05
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199701112018012002, tanggal_mulai=2024-12-05, tanggal_selesai=2024-12-05
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=197505221995031002, tanggal_mulai=2024-12-05, tanggal_selesai=2024-12-06
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199610262015122003, tanggal_mulai=2024-12-06, tanggal_selesai=2024-12-06
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197505221995031002, tanggal_mulai=2024-12-06, tanggal_selesai=2024-12-06
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197004021990121001, tanggal_mulai=2024-12-06, tanggal_selesai=2024-12-10
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199207302012101001, tanggal_mulai=2024-12-09, tanggal_selesai=2024-12-09
+[2025-01-07 09:51:34] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199610262015122003, tanggal_mulai=2024-12-09, tanggal_selesai=2024-12-09
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199208072012101002, tanggal_mulai=2024-12-09, tanggal_selesai=2024-12-10
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199310182013101002, tanggal_mulai=2024-12-09, tanggal_selesai=2024-12-10
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI SAKIT, nip=199310182013101002, tanggal_mulai=2024-12-11, tanggal_selesai=2024-12-12
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198507242006021005, tanggal_mulai=2024-12-12, tanggal_selesai=2024-12-12
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199405132013101001, tanggal_mulai=2024-12-12, tanggal_selesai=2024-12-12
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198607082006021004, tanggal_mulai=2024-12-12, tanggal_selesai=2024-12-18
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199412252015122001, tanggal_mulai=2024-12-16, tanggal_selesai=2024-12-16
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197003281999031001, tanggal_mulai=2024-12-16, tanggal_selesai=2024-12-17
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197705261999031002, tanggal_mulai=2024-12-16, tanggal_selesai=2024-12-20
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199412252015122001, tanggal_mulai=2024-12-17, tanggal_selesai=2024-12-17
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI KARENA ALASAN PENTING, nip=199501092015021005, tanggal_mulai=2024-12-17, tanggal_selesai=2025-01-02
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197001131999031001, tanggal_mulai=2024-12-18, tanggal_selesai=2024-12-20
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197001131999031001, tanggal_mulai=2024-12-19, tanggal_selesai=2024-12-20
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198409282003121004, tanggal_mulai=2024-12-19, tanggal_selesai=2025-01-08
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=PENGGANTI CUTI BERSAMA, nip=198204162003122002, tanggal_mulai=2024-12-20, tanggal_selesai=2024-12-20
+[2025-01-07 09:51:35] Row 30: Data duplikat ditemukan untuk NIP 198204162003122002 dengan tanggal mulai 2024-12-20 dan tanggal selesai 2024-12-20.
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=PENGGANTI CUTI BERSAMA, nip=198204162003122002, tanggal_mulai=2024-12-20, tanggal_selesai=2024-12-20
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199710222018011002, tanggal_mulai=2024-12-21, tanggal_selesai=2024-12-29
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199809082018011001, tanggal_mulai=2024-12-21, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197603131996021001, tanggal_mulai=2024-12-23, tanggal_selesai=2024-12-24
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198709052010121003, tanggal_mulai=2024-12-23, tanggal_selesai=2024-12-24
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197602221996021001, tanggal_mulai=2024-12-23, tanggal_selesai=2024-12-24
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197207211992011001, tanggal_mulai=2024-12-23, tanggal_selesai=2024-12-24
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198410262003121003, tanggal_mulai=2024-12-23, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197706281997031001, tanggal_mulai=2024-12-23, tanggal_selesai=2025-01-06
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199103292012101001, tanggal_mulai=2024-12-24, tanggal_selesai=2025-01-03
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197101071990121001, tanggal_mulai=2024-12-27, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197505221995031002, tanggal_mulai=2024-12-27, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198809182015021002, tanggal_mulai=2024-12-27, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197708121997031001, tanggal_mulai=2024-12-27, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197207211992011001, tanggal_mulai=2024-12-27, tanggal_selesai=2024-12-27
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197606041996021001, tanggal_mulai=2024-12-27, tanggal_selesai=2025-01-03
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197505221995031002, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197203271992121001, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=198709052010121003, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199209012014111001, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197207211992011001, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197801042000011002, tanggal_mulai=2024-12-30, tanggal_selesai=2024-12-31
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199210232013101003, tanggal_mulai=2024-12-30, tanggal_selesai=2025-01-02
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=197804262000121002, tanggal_mulai=2024-12-30, tanggal_selesai=2025-01-03
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199905022018121001, tanggal_mulai=2025-01-01, tanggal_selesai=2025-01-03
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199809082018011001, tanggal_mulai=2025-01-02, tanggal_selesai=2025-01-05
+[2025-01-07 09:51:35] DEBUG RIWAYAT: jenis_cuti=CUTI TAHUNAN, nip=199103292012101001, tanggal_mulai=2025-01-02, tanggal_selesai=2025-01-06
+[2025-01-09 09:05:25] Row 2: NIP 12345 tidak ditemukan di tabel karyawan.
+[2025-01-09 09:05:25] Row 3: NIP 67890 tidak ditemukan di tabel karyawan.
+[2025-01-09 09:09:51] Row 3: NIP kosong, dilewati.
+[2025-01-09 09:09:51] Row 4: NIP kosong, dilewati.
+[2025-01-09 09:09:51] Row 5: NIP kosong, dilewati.
+[2025-01-09 09:09:51] Row 6: NIP kosong, dilewati.
+[2025-01-09 09:09:51] Row 7: NIP kosong, dilewati.
+[2025-01-09 09:09:51] Row 8: NIP kosong, dilewati.
+[2025-10-05 15:30:04] Row 2: Unknown column 'karyawan_nip' in 'where clause'
+[2025-10-05 15:30:04] Row 3: Unknown column 'karyawan_nip' in 'where clause'
+[2025-12-14 13:19:33] Row 2 error: Unknown column 'no_st' in 'field list'
+[2025-12-14 13:24:34] Row 2 error: Unknown column 'nomor_st' in 'field list'
+[2025-12-14 13:29:45] Row 2 error: Field 'id_st' doesn't have a default value
+[2025-12-14 13:37:21] Row 2 error: Field 'id_st' doesn't have a default value
+[2025-12-14 13:37:48] Row 2 skip: field wajib kosong (id_st / nomor_st / tanggal). NIP=1998
+[2025-12-14 13:38:04] Row 2 skip: field wajib kosong (id_st / nomor_st / tanggal). NIP=1998
+[2025-12-14 13:45:38] Row 2 skip: field wajib kosong (id_st / nomor_st / tanggal). NIP=1998
+[2025-12-14 13:47:02] Row 2 skip: field wajib kosong (id_st / nomor_st / tanggal). NIP=1998
+[2025-12-14 13:48:16] Row 2 error: Unknown column 'nomor_st' in 'field list'
+[2025-12-14 13:51:27] Row 2 error: Unknown column 'tgl_st' in 'field list'
+[2025-12-14 13:52:12] Row 2 error: Unknown column 'perihal' in 'field list'
+[2025-12-14 13:52:48] Row 2 error: Column count doesn't match value count at row 1
+[2025-12-14 13:54:55] Row 2 error: Field 'jenis_st' doesn't have a default value
+[2025-12-14 14:04:49] Row 2 error: Field 'jenis_st' doesn't have a default value
+[2025-12-14 14:05:26] Row 2 error: Data truncated for column 'status' at row 1

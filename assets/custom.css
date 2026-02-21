@@ -1,0 +1,30 @@
+#sidebar .nav-link {
+    display: block; /* Supaya tombol memenuhi lebar sidebar */
+    padding: 10px 15px; /* Tambahkan ruang di dalam tombol */
+    background-color: #0056b3; /* Warna tombol default */
+    color: white; /* Warna teks */
+    text-decoration: none; /* Hilangkan garis bawah */
+    border-radius: 5px; /* Membuat sudut tombol melengkung */
+    text-align: center; /* Rata tengah teks */
+    margin-bottom: 10px; /* Jarak antar tombol */
+    transition: background-color 0.3s ease; /* Animasi saat hover */
+}
+
+#sidebar .nav-link:hover {
+    background-color: #003f88; /* Warna tombol saat hover */
+    text-decoration: none; /* Tetap hilangkan garis bawah */
+}
+
+#sidebar .nav-link.active {
+    background-color: #002f5e; /* Warna tombol aktif */
+}
+
+
+#sidebar h4 {
+    font-size: 1rem; /* Ukuran font lebih kecil untuk menyesuaikan layout */
+    text-align: left; /* Memastikan teks sejajar ke kiri */
+}
+
+#sidebar img {
+    display: inline-block;
+}
