@@ -21,8 +21,7 @@ Project ini menggunakan PHP, MySQL, dan dependency diatur dengan Composer.
    composer install
 6. Atur koneksi database di file konfigurasi (db.php)
 7. Jalankan project menggunakan Laragon / XAMPP
-   ```bash
-   Buka project di browser, misal: http://localhost/employee-attendance-recap-system/
+   - Buka project di browser, misal: http://localhost/employee-attendance-recap-system/
 
 ## Usage
 - Gunakan menu untuk rekap presensi, export, dan laporan.
